@@ -1,4 +1,4 @@
-# Foreword
+# Lời tựa
 
 It wasn’t always so clear, but the Rust programming language is fundamentally
 about *empowerment*: no matter what kind of code you are writing now, Rust
@@ -38,4 +38,4 @@ friendly and approachable text intended to help you level up not just your
 knowledge of Rust, but also your reach and confidence as a programmer in
 general. So dive in, get ready to learn—and welcome to the Rust community!
 
-— Nicholas Matsakis and Aaron Turon
+— Nicholas Matsakis và Aaron Turon
